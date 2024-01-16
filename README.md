@@ -16,6 +16,8 @@ To download the data and trained models (prediction model and pre-trained autoen
 This repository requires python <= 3.7 and tensorflow == 1.15.x. The instructions were tested on Ubuntu 16.
 
 ```
+sudo apt-get install software-properties-common
+sudo apt-get install python3.7-dev
 ./install.sh
 source social_vdgnn/bin/activate
 ```
